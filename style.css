@@ -629,11 +629,14 @@ footer span a:hover{
     font-size: 14px;
 
 }
-
+.services .title::after,
 .teams .title::after{
     font-size: 14px;
 }
 
+    
+
+    
 
 .skills .title::after{
     font-size: 14px; 
